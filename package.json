@@ -1,0 +1,20 @@
+{
+  "name": "sass_partials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass index.scss > index.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorvasiloi/sass_partials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorvasiloi/sass_partials/issues"
+  },
+  "homepage": "https://github.com/igorvasiloi/sass_partials#readme"
+}
