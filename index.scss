@@ -1,13 +1,14 @@
 @import "./grid";
+@import "./reset";
 
 *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+   @include reset;
+}
 
 [class*="col-"] {
     padding: 15px;
     border: 5px solid white;
+    float: left;
   }
   
   .orange {
